@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+my_venv/
+
+# Ignore specific plan file
+.week_1_plan.txt
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore all Jupyter notebooks
+*.ipynb
